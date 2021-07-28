@@ -1,3 +1,5 @@
+# Download do DB cat_dogs link: https://1drv.ms/u/s!AhRegqXKWQCJhLwUFiDT-r1DrsxlQw?e=c5fSLR
+
 from tensorflow.python.client import device_lib
 
 def get_available_devices():
